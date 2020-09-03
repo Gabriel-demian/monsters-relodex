@@ -1,3 +1,13 @@
+# Monster-Relodex <br />
+Una app simple que mustra unas cartas de monstruos y sus datos. 
+
+### APIS usadas para datos e imagenes:
+  https://jsonplaceholder.typicode.com/users<br />
+  https://robohash.org/<br />
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
