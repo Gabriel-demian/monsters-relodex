@@ -1,5 +1,5 @@
-# Monster-Relodex <br />
-Una app simple que mustra unas cartas de monstruos y sus datos. 
+# Monster-Relodex (ReactJS)<br />
+Una app simple con ReactJS que mustra unas cartas de monstruos y sus datos. 
 
 ### APIS usadas para datos e imagenes:
   https://jsonplaceholder.typicode.com/users<br />
