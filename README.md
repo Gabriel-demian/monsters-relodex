@@ -1,4 +1,4 @@
-# Monster-Relodex (ReactJS)<br />
+# Monster-Rolodex (ReactJS)<br />
 Una app simple con ReactJS que mustra unas cartas de monstruos y sus datos. 
 
 ### APIS usadas para datos e imagenes:
