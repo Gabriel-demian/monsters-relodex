@@ -5,6 +5,8 @@ Una app simple con ReactJS que mustra unas cartas de monstruos y sus datos.
   https://jsonplaceholder.typicode.com/users<br />
   https://robohash.org/<br />
 
+### Fuente usada para el título
+https://fonts.google.com/specimen/Bigelow+Rules?query=bigelo<br />
 
 
 
